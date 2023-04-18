@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "companyLogo": "https://i.ibb.co/5GzTPhr/google.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google Software Co.",
+    "remote": true,
+    "location": "San Francisco, CA",
+    "employmentType": "Full-time",
+    "salary": "$120,000 - $150,000",
+    "jobDescription": "We are seeking a talented and motivated software engineer to join our team. The successful candidate will be responsible for developing and maintaining high-quality software products and applications. In this role, you will work closely with cross-functional teams to ensure project success and customer satisfaction.",
+    "jobResponsibility": "• Develop and maintain high-quality software products and applications\n• Collaborate with cross-functional teams to ensure project success and customer satisfaction\n• Participate in code reviews and contribute to the technical direction of the team\n• Stay up-to-date with emerging trends and technologies",
+    "educationalRequirements": "Bachelor's degree in Computer Science or equivalent experience",
+    "experiences": "3+ years of experience in software engineering",
+    "contactInformation": {
+      "phone": "555-111-2222",
+      "email": "softwarejobs@softwareco.com"
+    }
+  },
+  {
+    "id": "2",
+    "companyLogo": "https://i.ibb.co/BcMJY0s/instagram.png",
+    "jobTitle": "Data Analyst",
+    "companyName": "Instagram Co.",
+    "remote": false,
+    "location": "New York, NY",
+    "employmentType": "Full-time",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are seeking a skilled and detail-oriented Data Analyst to join our team. The successful candidate will be responsible for collecting, analyzing, and interpreting complex data sets. In this role, you will work closely with cross-functional teams to ensure data accuracy and drive business decisions.",
+    "jobResponsibility": "• Collect, analyze, and interpret complex data sets\n• Collaborate with cross-functional teams to ensure data accuracy and drive business decisions\n• Develop and maintain data analytics tools and systems\n• Identify and recommend process improvements",
+    "educationalRequirements": "Bachelor's degree in Data Analytics or equivalent experience",
+    "experiences": "3+ years of experience in data analysis",
+    "contactInformation": {
+      "phone": "555-222-3333",
+      "email": "datajobs@dataco.com"
+    }
+  },
+  {
+    "id": "3",
+    "companyLogo": "https://i.ibb.co/yNDp6Fg/microsoft.png",
+    "jobTitle": "Graphic Designer",
+    "companyName": "Microsoft Design Co.",
+    "remote": false,
+    "location": "Seattle, WA",
+    "employmentType": "Full-time",
+    "salary": "$50,000 - $70,000",
+    "jobDescription": "We are seeking a creative and talented Graphic Designer to join our team. The successful candidate will be responsible for developing visual concepts and designs for a variety of projects and platforms, including print, digital, and social media. In this role, you will work closely with cross-functional teams to ensure that all designs align with our brand and business objectives.",
+    "jobResponsibility": "• Develop visual concepts and designs for a variety of projects and platforms, including print, digital, and social media\n• Ensure that all designs align with our brand and business objectives\n• Collaborate withcross-functional teams to execute projects and initiatives\n• Create and edit graphics, illustrations, and other visual elements\n• Stay up-to-date with emerging design trends and technologies",
+    "educationalRequirements": "Bachelor's degree in Graphic Design or equivalent experience",
+    "experiences": "3+ years of experience in graphic design",
+    "contactInformation": {
+      "phone": "555-333-4444",
+      "email": "designjobs@designco.com"
+    }
+  },
+  {
+    "id": "4",
+    "companyLogo": "https://i.ibb.co/wwD8SXN/netflix.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Netflix Tech Company",
+    "remote": true,
+    "location": "San Francisco, CA",
+    "employmentType": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "jobDescription": "We are seeking a skilled and experienced Software Engineer to join our team. The successful candidate will be responsible for designing, developing, and maintaining software solutions that meet business and customer needs. In this role, you will work closely with cross-functional teams to deliver high-quality software solutions on time and on budget.",
+    "jobResponsibility": "• Design, develop, and maintain software solutions that meet business and customer needs\n• Work closely with cross-functional teams to deliver high-quality software solutions on time and on budget\n• Write clean, maintainable, and testable code\n• Troubleshoot and debug software issues\n• Stay up-to-date with emerging software development trends and technologies",
+    "educationalRequirements": "Bachelor's degree in Computer Science or equivalent experience",
+    "experiences": "5+ years of experience in software engineering",
+    "contactInformation": {
+      "phone": "555-444-5555",
+      "email": "techjobs@techcompany.com"
+    }
+  },
+  {
+    "id": "5",
+    "companyLogo": "https://i.ibb.co/x3xvBps/pinterest.png",
+    "jobTitle": "Customer Service Representative",
+    "companyName": "Pinterest Customer Service Inc.",
+    "remote": false,
+    "location": "Houston, TX",
+    "employmentType": "Part-time",
+    "salary": "$15 - $20 per hour",
+    "jobDescription": "We are seeking a friendly and professional Customer Service Representative to join our team. The successful candidate will be responsible for assisting customers with a variety of inquiries and providing excellent customer service. In this role, you will work closely with cross-functional teams to resolve customer issues and ensure customer satisfaction.",
+    "jobResponsibility": "• Assist customers with a variety of inquiries and provide excellent customer service\n• Resolve customer issues and ensure customer satisfaction\n• Collaborate with cross-functional teams to provide comprehensive solutions to customer problems\n• Stay up-to-date with company policies and procedures",
+    "educationalRequirements": "High school diploma or equivalent",
+    "experiences": "1+ years of experience in customer service",
+    "contactInformation": {
+      "phone": "555-555-6666",
+      "email": "customerservicejobs@csinc.com"
+    }
+  },
+  {
+    "id": "6",
+    "companyLogo": "https://i.ibb.co/mJ9nbpt/tesla.png",
+    "jobTitle": "Project Manager",
+    "companyName": "Tesla Co.",
+    "remote": true,
+    "location": "Boston, MA",
+    "employmentType": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "jobDescription": "We are seeking an organized and detail-oriented Project Manager to join our team. The successful candidate will be responsible for planning, executing, and closing projects according to established deadlines and budgets. In this role, you will work closely with cross-functional teams to ensure project success and customer satisfaction.",
+    "jobResponsibility": "• Plan, execute, and close projects according to established deadlines and budgets\n• Collaborate with cross-functional teams to ensure project success and customer satisfaction\n• Develop project plans and schedules\n• Identify and mitigate project risks\n• Monitor project progress and report project status to stakeholders",
+    "educationalRequirements": "Bachelor's degree in Project Management or equivalent experience",
+    "experiences": "3+ years of experience in project management",
+    "contactInformation": {
+      "phone": "555-666-7777",
+      "email": "projectjobs@projectco.com"
+    }
+  },
+  {
+    "id": "7",
+    "companyLogo": "https://i.ibb.co/28sKDnC/whatsapp.png",
+    "jobTitle": "Marketing Specialist",
+    "companyName": "Whatsapp Marketing Inc.",
+    "remote": false,
+    "location": "New York, NY",
+    "employmentType": "Full-time",
+    "salary": "$70,000 - $90,000",
+    "jobDescription": "We are seeking a creative and analytical Marketing Specialist to join our team. The successful candidate will be responsible for developing and executing marketing campaigns that drive brand awareness and customer acquisition. In this role, you will work closely with cross-functional teams to ensure marketing success and customer satisfaction.",
+    "jobResponsibility": "• Develop and execute marketing campaigns that drive brand awareness and customer acquisition\n• Collaborate with cross-functional teams to ensure marketing success and customer satisfaction\n• Analyze campaign performance and make data-driven recommendations for improvement\n• Stay up-to-date with emerging marketing trends and technologies",
+    "educationalRequirements": "Bachelor's degree in Marketing or equivalent experience",
+    "experiences": "3+ years of experience in marketing",
+    "contactInformation": {
+      "phone": "555-777-8888",
+      "email": "marketingjobs@marketinginc.com"
+    }
+  },
+  {
+    "id": "8",
+    "companyLogo": "https://i.ibb.co/5GzTPhr/google.png",
+    "jobTitle": "Human Resources Manager",
+    "companyName": "Google Co.",
+    "remote": true,
+    "location": "Chicago, IL",
+    "employmentType": "Full-time",
+    "salary": "$80,000 - $100,000",
+    "jobDescription": "We are seeking an experienced and strategic Human Resources Manager to join our team. The successful candidate will be responsible for developing and implementing human resources policies and procedures that support the company's goals and objectives. In this role, you will work closely with cross-functional teams to ensure HR success and employee satisfaction.",
+    "jobResponsibility": "• Develop and implement human resources policies and procedures that support the company's goals and objectives\n• Collaborate with cross-functional teams to ensure HR success and employee satisfaction\n• Manage the recruitment and hiring process\n• Develop and deliver employee training programs\n• Stay up-to-date with employment law and regulations",
+    "educationalRequirements": "Bachelor's degree in Human Resources or equivalent experience",
+    "experiences": "5+ years of experience in human resources",
+    "contactInformation": {
+      "phone": "555-888-9999",
+      "email": "hrjobs@hrco.com"
+    }
+  }
+]

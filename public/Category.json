@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Account & Finance",
+    "image": "https://i.ibb.co/j5nh6yr/accounts.png",
+    "post": 300
+  },
+  {
+    "id": 2,
+    "title": "Creative Design",
+    "image": "https://i.ibb.co/P1D6Nt5/business.png",
+    "post": 100
+  },
+  {
+    "id": 3,
+    "title": "Marketing & Sales",
+    "image": "https://i.ibb.co/h7zpJjB/social.png",
+    "post": 150
+  },
+  {
+    "id": 4,
+    "title": "Engineering Job",
+    "image": "https://i.ibb.co/MZvCynG/chip.png",
+    "post": 250
+  }
+]
